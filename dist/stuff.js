@@ -114,7 +114,7 @@ function printCart(user) {
     console.log('Cart Total:', cartTotal(user));
 }
 // Driver Code
-const user = createUser('Brian Stodder', 55);
+const user = createUser('Brian Stanton', 55);
 const itemA = createItem('apple', 1, "default fruit, is it called 'apple' because it's the best fruit? or is the best fruit because it's called 'apple'");
 const itemB = createItem('pears', 2, 'like peaches but better');
 const itemC = createItem('orange', 3, 'the fruit came first');
